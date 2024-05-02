@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, pygame and sql
 - 💞️ I’m looking to collaborate on gaming 
 - 📫 How to reach me just ping me to my mail it's raghujohn070@gmail.com
-- 😄 Pronouns: RA--GU
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm single
 
 <!---
